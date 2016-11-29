@@ -1,3 +1,4 @@
 /ll_env/
 /.idea/
-*.pyc
+/__pycache__/
+*.sqlite3
